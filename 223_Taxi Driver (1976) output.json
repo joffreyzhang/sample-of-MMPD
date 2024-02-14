@@ -1,0 +1,33 @@
+[
+{
+    "scene": "015",
+    "content": [
+        {
+            "description": "Travis is striding briskly across Broadway toward the Palantine Headquarters.He's dressed the best we have seen him; his pants (not jeans) are pressed,\n his boots shined, his hair combed. Under his Army jacket he wears a freshly laundered shirt and ivy league tie. He drops his cigarette, steps on it and walks in.\n Watching Travis enter Palantine's Headquarters, we are surprised to realize that Travis is really quite attractive. His deformities are psychological, not physical. He believes he is cursed, and therefore he is.\nTravis walks briskly into the office, and heads toward Betsy's desk.  Tom walks over to greet him, but Travis ignores him.\nAs the CAMERA examines Travis' face more closely, one can see the hollowness wrought by lack of sleep and sufficient diet.\nBETSY waves TOM off with a short gesture, indicating everything is OK.  He walks away.\nBetsy is interviewing Travis, but she is also teasing him a little, leading him on in a gentle feminine way.\nTravis is pacing back and forth on Broadway just beyond the Palantine Headquarters. He checks his watch.\n\n",
+            "dialogues": "TRAVIS (V.O.):I had black coffee and apple pie with a slice of melted yellow cheese.\n00:23:42,797 --> 00:23:47,383\n I think that was a good selection.\n00:23:47,593 --> 00:23:49,844\nBetsy had coffee and a fruit salad dish.\n 00:23:50,054 --> 00:23:52,388\n She could've had anything she wanted.\n00:23:54,725 --> 00:23:57,435\n\nBETSY:Fifteen thousand volunteers in New York alone's not bad.\n00:23:54,725 --> 00:23:57,435\nBut the organizational problems.\n00:23:57,686 --> 00:23:59,479\nTRAVIS:Yes, I know what you mean. I've got the same problems.\n00:24:01,565 --> 00:24:04,609\nI gotta get organized. Little things, like my apartment, my possessions.\n00:24:04,860 --> 00:24:09,906\nI should get one of those signs that says, 'One of these days I'm Gonna Organiz-zed.'\n00:24:10,699 --> 00:24:14,536\n\nBETSY: You mean \"organized\"?\n00:24:14,787 --> 00:24:16,412\n\nTRAVIS: Organiz-ized.\n00:24:16,622 --> 00:24:18,498\nOrganiz-ized. It's a joke.\n00:24:18,749 --> 00:24:21,167\nO-R-G-A-N-E-Z-I-E-Z-D\n00:24:22,044 --> 00:24:24,629\n\nBETSY:You mean \"organiz-ize.\" Like those little signs in offices that say, \"Thimk.\"\n00:24:24,880 --> 00:24:29,134\n\nTRAVIS:Do you like where you work?\n00:24:35,307 --> 00:24:36,724\n\nBETSY: We've got some good people. And I think Palantine's got a good chance.\n00:24:38,144 --> 00:24:42,063\n\nTRAVIS:You know you have beautiful eyes?\n00:24:46,193 --> 00:24:48,278\nDo you like the guy you work with?\n00:24:54,869 --> 00:24:56,953\n\nBETSY: He's okay.\n00:24:57,204 --> 00:24:58,788\n\nTRAVIS:Yeah, I know.But do you like him?\n00:25:00,457 --> 00:25:02,041\n\nBETSY: He's funny, good at his job. He's okay. Though he does have a few problems.\n00:25:02,543 --> 00:25:07,005\n\nTRAVIS: I would say he has quite a few problems.\n00:25:07,214 --> 00:25:09,382\nHis energy seems to go in the wrong places.\n00:25:11,135 --> 00:25:14,179\nWhen I walked in and I saw you two sitting there...\n00:25:14,805 --> 00:25:17,599\n...I could just tell that there was no connection...\n00:25:17,808 --> 00:25:20,685\n...whatsoever.\n00:25:20,895 --> 00:25:22,270\nAnd I felt when I walked in, there was something between us.\n00:25:22,521 --> 00:25:25,732\nThere was an impulse that we were both following.\n00:25:25,983 --> 00:25:28,651\nSo that gave me the right to talk to you.\n00:25:28,903 --> 00:25:31,571\nOtherwise, I never would've felt that I had the right to talk to you.\n00:25:31,780 --> 00:25:35,533\nI never would've had the courage to talk to you.\n00:25:35,784 --> 00:25:38,745\nAnd with him, I felt there was nothing.\n00:25:39,663 --> 00:25:42,123\nWhen I walked in, I knew I was right.Did you feel that way?\n00:25:42,333 --> 00:25:45,418\n\nBETSY:I wouldn't be here if I didn't.\n00:25:49,006 --> 00:25:51,299\n\nTRAVIS:Where are you from?\n00:25:53,636 --> 00:25:54,886\n\nBETSY:Upstate.\n00:25:55,471 --> 00:25:56,596\n\nTRAVIS:That fellow, I don't like him.\n00:26:00,684 --> 00:26:02,310\nNot that I don't like him,I just think he's silly.\n00:26:02,519 --> 00:26:05,521\nI don't think he respects you.\n00:26:07,983 --> 00:26:10,235\n\nBETSY:I don't believe I've ever met anyone quite like you.\n00:26:11,362 --> 00:26:14,489\n\nTRAVIS:You wanna go to...\n00:26:25,834 --> 00:26:27,543\n...a movie with me?\n00:26:28,879 --> 00:26:30,546\n\nBETSY:I have to go back to work now.\n00:26:31,090 --> 00:26:35,051\n\nTRAVIS:I don't mean now. Another time?\n00:26:31,090 --> 00:26:35,051\n\n",
+            "answer": "[Travis and Betsy:(Professional, Fondness)]"
+        }
+    ],
+    "personality annotation":[
+        {
+            "character_name": "Travis Bickle",
+            "MBTI":"ISTP",
+            "Enneagram": "6w5",
+            "Big Five": "RLUEN",
+            "Instinctual Variant": "sx/sp",
+            "distribution":
+            {"ISTP": "489", "INTP": "69", "ISFP": "43", "INTJ": "30", "INFP": "14", "ISTJ": "11", "INFJ": "9", "ISFJ": "5", "ENTP": "1"}
+        },
+        {
+            "character_name": "Betsy",
+            "MBTI":"ENFJ",
+            "Enneagram": "2w3",
+            "Big Five": "UNKNOWN",
+            "Instinctual Variant": "so/sx",
+            "distribution":
+            {"ENFJ": "81", "ENFP": "9", "INFJ": "8", "ESFJ": "5", "INFP": "2", "INTJ": "2"}
+        }
+        
+    ]
+}
+]
