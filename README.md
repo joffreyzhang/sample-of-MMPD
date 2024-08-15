@@ -4,3 +4,5 @@ Due to the size of our dataset and copyright concerns, we only offer a sample of
 - The JSON file contains the dialogues information with personality and relationshio annotation
 - The .mp4 file is clipped according to the timestamp in JSON file.
 - The .mp3 file is extracted from .mp4 file using FFmpeg.
+
+each video clip of our dataset is tagged with a ``Scene'' identifier, which likely refers to a specific segment or moment within a larger narrative or dataset. The ``Dialogue'' field contains an array of objects, each providing a detailed description of a scene and dialogues between characters. The dialogues are presented with time corresponding timestamps, too. The ``Relationship'' field within this object provides a summary or interpretation of their interaction, in this case, indicating a professional relationship with an element of fondness between Gatsby and Daisy. Finally, the ``Personality'' section provides personality profiles for the characters mentioned in the scene, where their personality type distribution are listed along with a ``Votes Distribution'' field.
